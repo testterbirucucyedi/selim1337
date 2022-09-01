@@ -11,7 +11,7 @@
 </p> 
 
 - **Selam dostlar ben Selim 18 yaşındayım**
-- **4 Yıldır yazılım ve kodlama ile uğraşıyorum. [_html, php, javascript, css, python, C++ _]**
+- **4 Yıldır yazılım ve kodlama ile uğraşıyorum. [ html, php, javascript, css, python, C++ ]**
 - **Web Sitem:**
 - *https://selim1337.vercel.app/*
 - *https://selim1337.github.io/*
@@ -49,6 +49,8 @@
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=selim1337&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=selim1337&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
+    <a href="https://github.com/selim1337/discordjs-slash-command-bot-v13" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=discordjs-slash-command-bot-v13&theme=gotham" alt="l33t"/> </a>
+    <a href="https://github.com/selim1337/ddos" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=selim1337.vercel.app&theme=gotham" alt="l33t"/> </a>
     
 </p>
 
