@@ -13,8 +13,10 @@
 - **Selam dostlar ben Selim 18 yaşındayım**
 - **4 Yıldır yazılım ve kodlama ile uğraşıyorum. [ html, php, javascript, css, python, C++ ]**
 - **Web Sitem:**
-- *https://selim1337.vercel.app/*
-- *https://selim1337.github.io/*
+
+- <a href="https://selim1337.vercel.app/" target="_blank">*https://selim1337.vercel.app*</a>
+
+- <a href="https://selim1337.vercel.app/" target="_blank">*https://selim1337.github.io*</a>
 - **Discord adresim: selim#1337** *[discord.gg/lynx](https://discord.gg/lynx)*
 
 - **Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz**
