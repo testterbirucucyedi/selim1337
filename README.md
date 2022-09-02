@@ -26,7 +26,7 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-quare&logo=spotify&logoColor=white&link=link)](https://open.spotify.com/user/tfzyt6wcjdhl8dgt8w5lpmywo?si=5WZHuW77Tp-Pwcxy9q9Bdw&utm_source=copy-link&nd=1)
 [![Glitch Badge](https://img.shields.io/badge/Glitch-ff77ff?style=flat-quare&logo=glitch&logoColor=white&link=link)](https://glitch.com/@selim1337)
 
-## 🛠 &nbsp;Software Languages
+## &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -35,8 +35,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-## Discord Account
-<br>
+## &nbsp;Discord Account
 
 <p align="center">
     <a href="https://discord.com/users/541303073962950657" target="_blank">
@@ -48,7 +47,7 @@
 </p>
 
 
-## GitHub Stats
+## &nbsp;GitHub Stats
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&theme=gotham&hide_border=true'>
 </p>
