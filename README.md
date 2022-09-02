@@ -42,7 +42,7 @@
     <a href="https://discord.com/users/541303073962950657" target="_blank">
         <img
             src="https://discord.c99.nl/widget/theme-3/546303073962950657.png"
-            alt="l33t community"
+            alt="discord"
         />
     </a>      
 </p>
