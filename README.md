@@ -59,7 +59,7 @@
     
 </p>
 
-**28.08.2020 13:05:24 UTC +3 Last update**
+**Updated 1 minute ago**
         <img
             src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
             alt="l33t community"
