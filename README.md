@@ -10,14 +10,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
-- **Selam dostlar ben Selim 18 yaşındayım**
-- **4 Yıldır yazılım ve kodlama ile uğraşıyorum. [ html, php, javascript, css, python, C++ ]**
+- **Hi I'm Selim I'm 18 years old.**
+- **I have been interested in software and coding for 4 years. [ html, php, javascript, css, python, C++ ]**
 - **Web Site:**
 - *https://selim1337.vercel.app*
 - *https://selim1337.github.io*
-- **Discord adresim: selim#1337** *[discord.gg/lynx](https://discord.gg/lynx)*
+- **Discord: selim#1337** *[discord.gg/lynx](https://discord.gg/lynx)*
 
-- **Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz**
+- **If there is a problem in your mind, you can reach me from my social media accounts.**
 - 🐉 **Everything you can imagine is real -**
 
 [![Github Badge](https://img.shields.io/badge/Github-000?style=quare&logo=Github&logoColor=white&link=link)](https://github.com/selim1337) 
@@ -41,7 +41,6 @@
     <a href="https://discord.com/users/541303073962950657" target="_blank">
         <img
             src="https://discord.c99.nl/widget/theme-3/546303073962950657.png"
-            alt="discord"
         />
     </a>      
 </p>
@@ -62,6 +61,5 @@
 **Updated 1 minute ago**
         <img
             src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
-            alt="l33t community"
         />
  
