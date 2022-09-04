@@ -14,7 +14,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@:selim1337" />
+  <img src="https://count.getloli.com/get/@:selim1337?theme=asoul" />
 </p>
 
 
