@@ -22,7 +22,7 @@
 
 [![Github Badge](https://img.shields.io/badge/Github-000?style=quare&logo=Github&logoColor=white&link=link)](https://github.com/selim1337) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=flat-quare&logo=instagram&logoColor=white&link=link)](https://instagram.com/selim1337_)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-quare&logo=discord&logoColor=white&link=link)](https://discord.gg/lynx)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-quare&logo=discord&logoColor=white&link=link)](https://discord.com/users/541303073962950657)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-quare&logo=spotify&logoColor=white&link=link)](https://open.spotify.com/user/tfzyt6wcjdhl8dgt8w5lpmywo?si=5WZHuW77Tp-Pwcxy9q9Bdw&utm_source=copy-link&nd=1)
 [![Glitch Badge](https://img.shields.io/badge/Glitch-ff77ff?style=flat-quare&logo=glitch&logoColor=white&link=link)](https://glitch.com/@selim1337)
 
