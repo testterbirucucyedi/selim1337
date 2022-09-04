@@ -10,6 +10,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@:selim1337" />
+</p>
+
+
 - **Hi I'm Selim I'm 18 years old.**
 - **I have been interested in software and coding for 4 years. [ html, php, javascript, css, python, C++ ]**
 - **Web Site:**
@@ -55,8 +60,6 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=selim1337&show_icons=true&theme=gotham&line_height=27&hide_border=true'/>
     <a href="https://github.com/selim1337/discordjs-slash-command-bot-v13" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=discordjs-slash-command-bot-v13&theme=gotham" alt="l33t"/> </a>
     <a href="https://github.com/selim1337/ddos" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=selim1337.vercel.app&theme=gotham" alt="l33t"/> </a>
-    
-</p>
 
 **Updated 1 minute ago**
         <img
