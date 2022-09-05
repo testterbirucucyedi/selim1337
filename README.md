@@ -18,7 +18,7 @@
 </p>
 
 
-- **Hi I'm Selim I'm 18 years old.**
+- **Hi I'm Selim I'm 18 years old.** 
 - **I have been interested in software and coding for 4 years. [ html, php, javascript, css, python, C++ ]**
 - **Web Site:**
 - *https://selim1337.vercel.app*
@@ -64,8 +64,13 @@
     <a href="https://github.com/selim1337/discordjs-slash-command-bot-v13" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=discordjs-slash-command-bot-v13&theme=gotham" alt="l33t"/> </a>
     <a href="https://github.com/selim1337/ddos" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=selim1337.vercel.app&theme=gotham" alt="l33t"/> </a>
 
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337?ref=badge_large)
+<br>
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337?ref=badge_shield)
+
 **Updated 1 minute ago**
         <img
             src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
         />
- 
+        
