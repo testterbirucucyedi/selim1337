@@ -64,7 +64,7 @@
     <a href="https://github.com/selim1337/discordjs-slash-command-bot-v13" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=discordjs-slash-command-bot-v13&theme=gotham" alt="l33t"/> </a>
     <a href="https://github.com/selim1337/ddos" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=selim1337.vercel.app&theme=gotham" alt="l33t"/> </a>
 
-**Updated 1 minute ago**
+**Updated 2 minute ago**
         <img
             src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
         />
