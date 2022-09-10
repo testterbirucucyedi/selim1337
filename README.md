@@ -26,7 +26,7 @@
 - **Discord: selim#1337** *[discord.gg/lynx](https://discord.gg/lynx)*
 
 - **If there is a problem in your mind, you can reach me from my social media accounts.**
-- 🐉 **Everything you can imagine is real -**
+- **Everything you can imagine is real -**
 
 [![Github Badge](https://img.shields.io/badge/Github-000?style=quare&logo=Github&logoColor=white&link=link)](https://github.com/selim1337) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=flat-quare&logo=instagram&logoColor=white&link=link)](https://instagram.com/selim1337_)
