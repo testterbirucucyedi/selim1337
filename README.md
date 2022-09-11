@@ -18,7 +18,7 @@
 </p>
 
 
-- **Hi I'm Selim I'm 18 years old.** 
+- **Hi I'm Selim** 
 - **I have been interested in software and coding for 4 years. [ html, php, javascript, css, python, C++ ]**
 - **Web Site:**
 - *https://selim1337.vercel.app*
