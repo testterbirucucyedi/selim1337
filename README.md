@@ -61,8 +61,8 @@
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=selim1337&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=selim1337&show_icons=true&theme=gotham&line_height=27&hide_border=true'/>
+         <a href="https://github.com/selim1337/Discord-Template-V13" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=Discord-Template-V13&theme=gotham" alt="l33t"/> </a>
     <a href="https://github.com/selim1337/spotify-account-generator" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=spotify-account-generator&theme=gotham" alt="l33t"/> </a>
-     <a href="https://github.com/selim1337/Discord-Template-V13" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=Discord-Template-V13&theme=gotham" alt="l33t"/> </a>
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337?ref=badge_large)
