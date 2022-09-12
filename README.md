@@ -43,37 +43,23 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+## &nbsp;GitHub Stats
+<p align = 'center'>
+    <img src='https://github-stats-alpha.vercel.app/api?username=selim1337&cc=000&tc=fff&ic=fff&bc=0007'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&hide_border=true'>
+</p>
+
 ## &nbsp;Discord Account
 
-<p align="center">
+<p align = 'center'>
     <a href="https://discord.com/users/541303073962950657" target="_blank">
         <img
             src="https://discord.c99.nl/widget/theme-3/546303073962950657.png"
         />
     </a>      
 </p>
-
-
-## &nbsp;GitHub Stats
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&theme=gotham&hide_border=true'>
-</p>
-<p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=selim1337&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=selim1337&show_icons=true&theme=gotham&line_height=27&hide_border=true'/>
-    <a href="https://github.com/selim1337/Discord-Template-V13" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=Discord-Template-V13&theme=gotham" alt="l33t"/></a>
-    <a href="https://github.com/selim1337/spotify-account-generator" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=spotify-account-generator&theme=gotham" alt="l33t"/></a>
-
-<p align="center">
-    <a href="https://github.com/selim1337" target="_blank">
-        <img
-            src="https://github-profile-trophy.vercel.app/?username=selim1337&rank=-?&theme=monokai&no-frame=true"
-        />
-    </a>      
-</p>
-
 
 **Updated 1 minute ago**
         <img
