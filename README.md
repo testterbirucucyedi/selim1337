@@ -48,7 +48,10 @@
 ## &nbsp;GitHub Stats
 <p align = 'center'>
     <img src='https://github-stats-alpha.vercel.app/api?username=selim1337&cc=000&tc=fff&ic=fff&bc=0007'/>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&hide_border=true'>
+</p>
+
+<p align = 'center'> 
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&hide_border=true'>
 </p>
 
 ## &nbsp;Discord Account
