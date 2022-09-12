@@ -65,7 +65,16 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=Discord-Template-V13&theme=gotham" alt="l33t"/></a>
     <a href="https://github.com/selim1337/spotify-account-generator" target="_blank" rel="noreferrer"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=selim1337&repo=spotify-account-generator&theme=gotham" alt="l33t"/></a>
-    
+
+<p align="center">
+    <a href="https://github.com/selim1337" target="_blank">
+        <img
+            src="https://github-profile-trophy.vercel.app/?username=selim1337&rank=-?&theme=monokai&no-frame=true"
+        />
+    </a>      
+</p>
+
+
 **Updated 1 minute ago**
         <img
             src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
