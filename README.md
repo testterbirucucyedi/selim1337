@@ -63,9 +63,8 @@
         />
     </a>      
 </p>
-
-**Updated 1 minute ago**
-        <img
+<!--
+<img
             src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
         />
-        
+    -->
