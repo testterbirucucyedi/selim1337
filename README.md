@@ -47,7 +47,7 @@
 
 ## &nbsp;GitHub Stats
 <p align = 'center'>
-    <img src='https://github-stats-alpha.vercel.app/api?username=selim1337&cc=000&tc=fff&ic=fff&bc=0007'/>
+    <img src='https://github-stats-alpha.vercel.app/api?username=selim1337'/>
 </p>
 
 <p align = 'center'> 
