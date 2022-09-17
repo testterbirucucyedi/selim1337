@@ -17,7 +17,7 @@
   <img src="https://count.getloli.com/get/@:selim1337?theme=asoul" />
 </p>
 
-<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?bg=00000000" /></a>
+<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?bg=00000000&animated=false&idleMessage=kanımız%20biz%20gibi..." /></a>
 
 
 - **Hi I'm Selim** 
