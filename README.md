@@ -50,11 +50,11 @@
 
 ## &nbsp;GitHub Stats
 <p align = 'center'>
-    <img src='https://github-stats-alpha.vercel.app/api?username=selim1337'/>
+    <img src='https://github-stats-alpha.vercel.app/api?username=selim1337&cc=000&tc=fff&ic=fff&bc=000'/>
 </p>
 
 <p align = 'center'> 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&hide_border=true'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&hide_border=true&theme=highcontrast'>
 </p>
 
 <!-- 
@@ -67,8 +67,7 @@
         />
     </a>      
 </p>
-
 <img
-            src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
-        />
+     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
+    />
     -->
