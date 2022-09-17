@@ -21,6 +21,7 @@
 - **Hi I'm Selim** 
 - **I have been interested in software and coding for 4 years.**
 - **Web Site:**
+- *https://selim1337.vercel.app*
 - *https://selim1337.github.io*
 - **Discord: selim#1337** *[discord.gg/lynx](https://discord.gg/lynx)*
 
