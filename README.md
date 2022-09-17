@@ -17,6 +17,8 @@
   <img src="https://count.getloli.com/get/@:selim1337?theme=asoul" />
 </p>
 
+<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?bg=00000000" /></a>
+
 
 - **Hi I'm Selim** 
 - **I have been interested in software and coding for 4 years.**
@@ -55,7 +57,8 @@
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&hide_border=true'>
 </p>
 
-## &nbsp;Discord Account
+<!-- 
+# &nbsp;Discord Account
 
 <p align = 'center'>
     <a href="https://discord.com/users/541303073962950657" target="_blank">
@@ -64,7 +67,7 @@
         />
     </a>      
 </p>
-<!--
+
 <img
             src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
         />
