@@ -56,6 +56,13 @@
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&hide_border=true&theme=highcontrast'>
 </p>
 
+## &nbsp; Spotify Stats
+<p align = 'center'> 
+   <img 
+      src="https://spotify-blond-beta.vercel.app/api/now-playing.svg" width="540" height="52"
+      />
+   </p>
+
 <!-- 
 # &nbsp;Discord Account
 
