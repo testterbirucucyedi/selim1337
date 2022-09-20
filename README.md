@@ -63,11 +63,9 @@
 </p> 
 
 <p align = 'center'> 
-<a href="https://open.spotify.com/user/tfzyt6wcjdhl8dgt8w5lpmywo" target="_blank">
    <img 
       src="https://spotify-blond-beta.vercel.app/api/now-playing.svg" width="540" height="52"
       />
-    </a>
    </p>
 
 <!-- 
