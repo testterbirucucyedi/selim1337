@@ -32,7 +32,7 @@
 
 [![Github Badge](https://img.shields.io/badge/Github-000?style=quare&logo=Github&logoColor=white&link=link)](https://github.com/selim1337) 
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-quare&logo=discord&logoColor=white&link=link)](https://discord.com/users/541303073962950657)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-quare&logo=spotify&logoColor=white&link=link)](https://open.spotify.com/user/tfzyt6wcjdhl8dgt8w5lpmywo?si=5WZHuW77Tp-Pwcxy9q9Bdw&utm_source=copy-link&nd=1)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-quare&logo=spotify&logoColor=white&link=link)](https://open.spotify.com/user/tfzyt6wcjdhl8dgt8w5lpmywo)
 [![Glitch Badge](https://img.shields.io/badge/Glitch-ff77ff?style=flat-quare&logo=glitch&logoColor=white&link=link)](https://glitch.com/@selim1337)
 
 ## &nbsp;Software Languages
@@ -63,6 +63,7 @@
 </p> 
 
 <p align = 'center'> 
+<a href="https://selim1337.github.io" target="_blank">
    <img 
       src="https://spotify-blond-beta.vercel.app/api/now-playing.svg" width="540" height="52"
       />
