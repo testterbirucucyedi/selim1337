@@ -63,10 +63,11 @@
 </p> 
 
 <p align = 'center'> 
-<a href="https://selim1337.github.io" target="_blank">
+<a href="https://open.spotify.com/user/tfzyt6wcjdhl8dgt8w5lpmywo" target="_blank">
    <img 
       src="https://spotify-blond-beta.vercel.app/api/now-playing.svg" width="540" height="52"
       />
+    </a>
    </p>
 
 <!-- 
