@@ -54,7 +54,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
 ## &nbsp;GitHub Stats
 <p align = 'center'>
     <img src='https://github-stats-alpha.vercel.app/api?username=selim1337&cc=000&tc=fff&ic=fff&bc=000'/>
@@ -86,6 +85,7 @@
         />
     </a>      
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
