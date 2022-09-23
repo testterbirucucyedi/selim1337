@@ -17,8 +17,15 @@
   <img src="https://count.getloli.com/get/@:selim1337?theme=asoul" />
 </p>
 
-<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?bg=00000000&animated=false&idleMessage=kanımız%20biz%20gibi..." /></a>
+<p align = 'center'>
+    <a href="https://ko-fi.com/selim1337" target="_blank">
+        <img
+            src="https://ko-fi.com/img/githubbutton_sm.svg"
+        />
+    </a>      
+</p>
 
+<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?bg=00000000&animated=false&idleMessage=kanımız%20biz%20gibi..." /></a>
 
 - **Hi I'm Selim** 
 - **I have been interested in software and coding for 4 years.**
