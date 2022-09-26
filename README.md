@@ -89,5 +89,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
+{/*1337*/}
     
 -->
