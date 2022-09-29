@@ -91,4 +91,18 @@
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
+<<<<<<< refs/heads/add-license-scan-badge
+**Updated 1 minute ago**
+        <img
+            src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"
+        />
+ 
 
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337?ref=badge_large)
+=======
+{/*1337*/}
+    
+-->
+>>>>>>> main
