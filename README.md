@@ -43,7 +43,8 @@
 [![Glitch Badge](https://img.shields.io/badge/Glitch-ff77ff?style=flat-quare&logo=glitch&logoColor=white&link=link)](https://glitch.com/@selim1337)
 
 ## &nbsp;Software Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fselim1337%2Fselim1337?ref=badge_shield)
+&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -90,6 +91,4 @@
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
-{/*1337*/}
-    
--->
+
