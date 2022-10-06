@@ -4,7 +4,7 @@
   >
 </p>
 
-<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?bg=00000000&animated=false&idleMessage=kanımız%20biz%20gibi..." /></a>
+<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?idleMessage=Just%20chillin'%20at%20the%20moment..." /></a>
 
 - **Hi I'm Selim** 
 - **I have been interested in software and coding for 4 years.**
@@ -15,9 +15,8 @@
 - **Discord: selim#1337**
 
 <img 
-        src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
-        alt="1337"
-    />
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
+   />
 </p> 
 
 <p align = 'center'> 
