@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/51216503/166926921-6b45e8e4-ad03-4597-83ae-bef255f76c1e.gif"
+    src="Atatürk.gif"
   >
 </p>
 <img 
