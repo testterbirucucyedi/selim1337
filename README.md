@@ -8,12 +8,11 @@
 
 - **Hi I'm Selim** 
 - **I have been interested in software and coding for 4 years.**
+
 - **Web Site:**
 - *https://selim1337.tk*
 - *https://selim1337.github.io*
 - **Discord: selim#1337**
-
-- **If there is a problem in your mind, you can reach me from my social media accounts.**
 
 <img 
         src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
